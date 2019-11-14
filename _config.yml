@@ -28,7 +28,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 youtube_username: klusbert
 github_username:  klusbert
 
-image: open_graph.png
 
 # Build settings
 theme: minima

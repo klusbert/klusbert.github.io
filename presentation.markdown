@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentation
+title: Om mig
 ---
 
 # Daniel Johansson

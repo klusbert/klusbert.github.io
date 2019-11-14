@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Erfarenheter
+layout: post
+title:  "Erfarenheter"
+date:   2019-11-14
 ---
 
 Jag har efter gymnasiet varit inblandad i en del programmerings projekt där jag har gjort programvara i form av bottar till spelet Tibia.

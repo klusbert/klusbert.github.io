@@ -1,0 +1,23 @@
+                                           
+    /* TEAM */
+                                
+	Your title: Daniel Johanssson.                                
+  	Site: daniel.johansson89@hotmail.se                                        
+   	Location: City, Country				
+							
+    /* THANKS */
+
+    							
+	Thanks to https://jekyllrb.com for the role of Main software.
+	Thanks to https://jekyllrb.com for the role of Host, version control                      
+                                
+    /* SITE */
+                                
+    	Last update: 2019/11/14                                 
+    	Standards: HTML5, CSS3                       
+  	Software: Jekyll, VS-code, github
+       
+                            
+
+
+                    
