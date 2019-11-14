@@ -32,6 +32,7 @@ title:  "Tankar om jekyll"
   </blockquote>
 <h3>Vad är robots.txt och hur har du konfigurerat det för din sida?</h3>
   <blockquote> 
+    Robot.txt ligger i rotmappen och talar om för s
   </blockquote> 
 <h3> Vad är humans.txt och hur har du konfigurerat det för din sida?</h3>
 
