@@ -51,7 +51,7 @@ title:  "Tankar om jekyll"
 <h3>Vad är Open Graph och hur har du använt dig utav det?</h3>
 <blockquote>
      Open graph är en teknik framtaget av facebook, som används för att presentera länkar till webbplatser på ett mer delikat sätt.
-     Man du kan välja själv hur det ska presenteras, genom att välja vilken bild som ska visas, vilken titel och även en beskrivning av webplatsen kan anges.
+     Man kan välja själv hur det ska presenteras, genom att välja vilken bild som ska visas, vilken titel och även en beskrivning av webplatsen kan anges.
      Jekyll hjälper mig att genera upp de flesta opengraph tagsen.
      Jag har valt att göra en kopia på head.html och där jag har lagt information om Opengraph image.     
 </blockquote>

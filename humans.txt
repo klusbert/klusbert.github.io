@@ -2,7 +2,7 @@
     /* TEAM */
                                 
 	Your title: Daniel Johanssson.                                
-  	Site: daniel.johansson89@hotmail.se                                        
+  	Site: klusbert.github.io                                     
    	Location: City, Country				
 							
     /* THANKS */
