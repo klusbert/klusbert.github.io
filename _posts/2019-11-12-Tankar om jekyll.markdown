@@ -15,8 +15,9 @@ title:  "Tankar om jekyll"
     </li>    
       <li><h4>Fördelar och nackdelar?</h4>
       <blockquote>
-        <div class = "pros">Det stora arbetet är redan gjort, nu är det förhållandevis enkelt att göra förändringar av CSSen</div>
-        <div class = "pros">Med små förändringar kan du uppnå bra resultat då layouten är redan gjord. Min erfarenhet av CSS är att layouten tog fruktansvärt lång tid att göra</div>
+        <div class = "pros">Du kan använda variablar för att spara t.ex färger du använder ofta.</div>
+        <div class = "pros">ForEach loop en array av element med få rader kod.</div>
+        <div class = "pros">Man kan använda det som en "vanligt" programeringspråk ändra storleken på sidan beroende på innehållet.</div>
         <hr>
         <div class = "cons">Svårt att veta var koden kommer ifrån</div>
         <div class = "cons">Svårt att felsöka</div>
@@ -27,10 +28,18 @@ title:  "Tankar om jekyll"
 </div>
 <h3>Vad tycker du om static site generators?</h3>
   <blockquote> 
-         Jag tyckte till en början att det var svårt att veta vad jag skulle göra för att uppnå det jag ville, 
+         Jag tyckte till en början att det var svårt att veta vad jag skulle göra för att uppnå det jag ville,
          men bara efter 2-3 dagar med jekyll så känner jag att det är ganska lätt att skapa en sida.
-         Nästa gång jag använder jekyll så kommer det gå väldigt fort att slänga upp en webbplats av god kvalité.
+         Nästa gång jag använder jekyll så kommer det gå väldigt fort att slänga upp en webbplats av god kvalité.             
   </blockquote>
+  <h4>Vilka typer av projekt är de lämpliga för?</h4>
+   <blockquote>
+        <div class = "pros">Bloggar, väldigt enkelt att komma igång. </div>
+        <div class = "pros">Foto gallerier, vissa är anpassade för att komma fort igång med ett fotogaleri.</div>
+        <div class = "pros">Generelt om man vill få upp en sida väldigt fort så är det väldigt lämpligt att använda.</div>
+   </blockquote>
+  
+
 <h3>Vad är robots.txt och hur har du konfigurerat det för din sida?</h3>
   <blockquote> 
          robots.txt ligger i rotmappen och talar om för sökrobotor (crawlers) om de får indexera sidan.
